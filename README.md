@@ -21,13 +21,10 @@ Domaine DNS     |final.cfai24.ajformation.fr
 
 
 <u>Adresses IP :</u> 
-Container : 2a03:5840:111:1024:aaaa:bbbb:cccc:0001
-
-Instance BDD : 2a03:5840:111:1024:aaaa:bbbb:cccc:0002
-
-Vitrine instance : 2a03:5840:111:1024:aaaa:bbbb:cccc:0003
-
-Gestion instance : 2a03:5840:111:1024:aaaa:bbbb:cccc:0004
+* Container : 2a03:5840:111:1024:aaaa:bbbb:cccc:0001
+* Instance BDD : 2a03:5840:111:1024:aaaa:bbbb:cccc:0002
+* Vitrine instance : 2a03:5840:111:1024:aaaa:bbbb:cccc:0003
+* Gestion instance : 2a03:5840:111:1024:aaaa:bbbb:cccc:0004
 
 <u>Comptes utilisateurs :</u>
 
