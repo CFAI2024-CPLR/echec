@@ -57,3 +57,23 @@ Afin de confirmé que les utilisateur arrivent bien à se connecter à notre mac
 
 ![alt text](image.png)
 
+Des tests de création / supression de contenaire ont été réalisé, afin de vérifier la fiabilité d'ajout et de supression des contenaires, avec les bons noms et bonnes adresses IP. 
+_________________________
+
+
+## <u>Création des containers :</u> 
+
+Pour créer un contenaire à partir de notre VM echec-terraform, il suffit de se déplacer dans le fichier /home/echec-user/terraform_project en utilisant la commande suivante : 
+
+cd /home/echec-user/terraform_project
+
+Puis de lancer les commandes suivantes : 
+
+* terraform init
+* terraform plan
+* terraform apply
+
+
+
+
+
