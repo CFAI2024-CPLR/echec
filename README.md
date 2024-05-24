@@ -1,2 +1,2 @@
 # echec
-groupe mtourier trolland lbouchet
+groupe mtourier trolland lbouchet lbruyere
