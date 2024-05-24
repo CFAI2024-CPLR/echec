@@ -53,11 +53,15 @@ _________________________
 
 ## <u>Test :</u> 
 
-Afin de confirmé que les utilisateur arrivent bien à se connecter à notre machine, nous avons tous testé les connexions & droits de chacun. 
+Afin de confirmé que les utilisateur arrivent bien à se connecter à notre machine, nous avons tous testé les connexions & droits de chacun. Nous avons également tester avec Mr Avond s'il arrive bien à se connecté et avoir son accès root. 
+
+Conclusion : Tout les utilisateurs arrivent à se connecter avec les bons droits. 
 
 ![alt text](image.png)
 
 Des tests de création / supression de contenaire ont été réalisé, afin de vérifier la fiabilité d'ajout et de supression des contenaires, avec les bons noms et bonnes adresses IP. 
+
+Conclusion : les containers se créent comme il faut, avec les bonnes adresses IP. 
 _________________________
 
 
